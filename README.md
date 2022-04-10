@@ -19,32 +19,6 @@ This project was created during the rockeseat Ignite course, but after completin
 - ❌ Unit tests.
 - ❌ Github pipes.
 
-## Architecture
-
-├── README.md
-├── db.json
-├── package.json
-├── public
-| ├── favicon.ico
-| └── index.html
-├── screenshots
-| ├── preview01.png
-| ├── preview02.png
-| └── preview03.png
-├── src
-| ├── App.tsx
-| ├── assets
-| ├── config
-| ├── index.tsx
-| ├── pages
-| ├── react-app-env.d.ts
-| ├── routes
-| ├── shared
-| └── styles
-├── tsconfig.json
-├── yarn-error.log
-└── yarn.lock
-
 ## Preview
 
 coming soon
