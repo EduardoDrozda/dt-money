@@ -1,3 +1,20 @@
 {
-  "transactions": []
+  "transactions": [
+    {
+      "id": 1,
+      "title": "Freelance",
+      "amount": 6000,
+      "category": "Trabalho",
+      "type": "deposit",
+      "createdAt": "2022-04-10T15:14:28.087Z"
+    },
+    {
+      "id": 2,
+      "title": "Aluguel",
+      "amount": 800,
+      "category": "Casa",
+      "type": "withdraw",
+      "createdAt": "2022-04-10T15:14:40.327Z"
+    }
+  ]
 }
